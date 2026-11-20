@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\nodos\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\nodos\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\formularios\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\formularios\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\datos\\conexionsqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\datos\\conexionsqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\estructuras\\pilaoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\estructuras\\pilaoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\billeteracajaarequipa\\nodos\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E2F4A1-8C3D-4E5F-9A1B-223344556677}|BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj|solutionrelative:billeteracajaarequipa\\nodos\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PilaOperaciones.cs",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Estructuras\\PilaOperaciones.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Estructuras\\PilaOperaciones.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Estructuras\\PilaOperaciones.cs",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Estructuras\\PilaOperaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T23:39:48.295Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConexionSQLite.cs",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Datos\\ConexionSQLite.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Datos\\ConexionSQLite.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Datos\\ConexionSQLite.cs",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Datos\\ConexionSQLite.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAiwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T23:38:23.778Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T23:30:22.519Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Formularios\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Formularios\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Formularios\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Formularios\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T23:30:19.91Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodoDoble.cs",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Nodos\\NodoDoble.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Nodos\\NodoDoble.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Nodos\\NodoDoble.cs",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Nodos\\NodoDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T23:28:41.649Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodoArbol.cs",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Nodos\\NodoArbol.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Nodos\\NodoArbol.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Nodos\\NodoArbol.cs",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Nodos\\NodoArbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T23:28:39.207Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs",
+              "ToolTip": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs",
+              "RelativeToolTip": "BilleteraCajaArequipa\\Formularios\\FormPrincipal.cs",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAgwG4CAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T04:15:05.095Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

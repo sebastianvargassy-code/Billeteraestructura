@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXSM4Qx11wg=",
+  "success": true,
+  "projectFilePath": "C:\\Tareas\\Estructura de datos\\BilleteraEFv2\\BilleteraCajaArequipa\\BilleteraCajaArequipa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebastian\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\sebastian\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

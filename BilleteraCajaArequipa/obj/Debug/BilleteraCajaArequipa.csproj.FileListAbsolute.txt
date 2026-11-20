@@ -1,0 +1,11 @@
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\bin\Debug\BilleteraCajaArequipa.exe.config
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\bin\Debug\BilleteraCajaArequipa.exe
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\bin\Debug\BilleteraCajaArequipa.pdb
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\BilleteraCajaArequipa.exe
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\BilleteraCajaArequipa.pdb
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\bin\Debug\System.Data.SQLite.dll
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\BilleteraCajaArequipa.csproj.AssemblyReference.cache
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\BilleteraCajaArequipa.csproj.CoreCompileInputs.cache
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\Billeter.8D62733B.Up2Date
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\BilleteraCajaArequipa.Formularios.FormPrincipal.resources
+C:\Tareas\Estructura de datos\BilleteraEFv2\BilleteraCajaArequipa\obj\Debug\BilleteraCajaArequipa.csproj.GenerateResource.cache
